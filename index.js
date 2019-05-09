@@ -1,3 +1,6 @@
+var Word = require("./Word");
+
+
 var inquirer = require("inquirer");
 
 /* importing the data from  word.js
